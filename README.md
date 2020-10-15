@@ -4,7 +4,9 @@
   </a>
 </h1>
 
-<img src="/images/totalityworks.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
+<p align="center">
+<img src="/images/totalityworks.png" /> 
+</p>
 
 # Table of Contents
 
