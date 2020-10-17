@@ -15,3 +15,4 @@
 02. [Git Workflow](/02-GitWorkflow.md)
 03. [Git Commit Style Guide](/03-GitCommitStyleGuide.md)
 04. [Git Pull Request Guide](/04-GitPullRequestGuide.md)
+05. [Starting A Project](/05-StartingAProject.md)
